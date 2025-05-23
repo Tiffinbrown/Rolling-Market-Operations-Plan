@@ -70,7 +70,7 @@ Each city has different customer behavior
 The system adjusts plans dynamically to reflect what actually sells in that market
 
 ## 📈 Dashboard Features
-[link text](https://public.tableau.com/app/profile/tiffin.brown1595/viz/MarketData_17479386703480/MarketProduceSalesPlan)
+[Full Dashboard](https://public.tableau.com/app/profile/tiffin.brown1595/viz/MarketData_17479386703480/MarketProduceSalesPlan)
 The dashboard includes:
 
 📍 Market City Selector
